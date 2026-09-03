@@ -38,13 +38,11 @@ export default function RootLayout({
   return (
     <html lang="en" className={urbanist.variable}>
       <head>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-V3N7VQ35VG" />
-        <script dangerouslySetInnerHTML={{ __html: `
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', 'G-V3N7VQ35VG');
-        `}} />
+        <script
+          defer
+          src="https://analytics.designsnack.ch/script.js"
+          data-website-id="81391019-315a-451e-9fe1-4671fc5bfda2"
+        />
       </head>
       <body>{children}</body>
     </html>
