@@ -8,6 +8,7 @@ const logos = [
   { name: 'AMBOSS', src: '/assets/clients/amboss.svg' },
   { name: 'Netlive', src: '/assets/clients/netlive.svg' },
   { name: 'AXA', src: '/assets/clients/axa.svg' },
+  { name: 'Sinnhaft', src: '/assets/clients/sinnhaft.svg' },
 ]
 
 export function TrustBar() {
