@@ -9,6 +9,7 @@ const logos = [
   { name: 'Netlive', src: '/assets/clients/netlive.svg' },
   { name: 'AXA', src: '/assets/clients/axa.svg' },
   { name: 'Sinnhaft', src: '/assets/clients/sinnhaft.svg' },
+  { name: 'Tertianum', src: '/assets/clients/tertianum.svg' },
 ]
 
 export function TrustBar() {
