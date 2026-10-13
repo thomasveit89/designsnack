@@ -138,7 +138,7 @@ Dark mode: implement from the start — light is default, dark is a toggle.
 Copy all logo variants and Tommy's photo from `/Users/thomasveit/Otto/company/assets/` into `public/assets/` in the repo before building.
 - Light backgrounds → `designsnack-black.svg` or `icon-plain-steel-mist.svg`
 - Dark backgrounds → `designsnack-white.svg` or `icon-plain-white.svg`
-- Tommy's photo → `tommy.png`
+- Tommy's photo → `tommy.webp`
 
 ---
 

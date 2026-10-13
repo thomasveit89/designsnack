@@ -14,7 +14,7 @@ const projects = [
     tag: 'Self-initiated · 2025/26',
     bg: '#fafaf9',
     dark: false,
-    image: '/assets/work/joyo/joyo.png',
+    image: '/assets/work/joyo/joyo.webp',
   },
   {
     id: 'finnova',
@@ -25,7 +25,7 @@ const projects = [
     tag: 'Embedded · 1 year & counting',
     bg: '#0e0e10',
     dark: true,
-    image: '/assets/work/finnova/finnova.png',
+    image: '/assets/work/finnova/finnova.webp',
   },
   {
     id: 'laws-and-patterns',
@@ -36,7 +36,7 @@ const projects = [
     tag: 'Self-initiated · 2025',
     bg: '#0d0d14',
     dark: true,
-    image: '/assets/work/laws-and-patterns/laws-and-patterns.png',
+    image: '/assets/work/laws-and-patterns/laws-and-patterns.webp',
     video: '/assets/work/laws-and-patterns/laws-and-patterns.mp4',
   },
   {
@@ -48,7 +48,7 @@ const projects = [
     tag: 'Client work · 2026',
     bg: '#14161a',
     dark: true,
-    image: '/assets/work/amboss/amboss-immobilien.png',
+    image: '/assets/work/amboss/amboss-immobilien.webp',
   },
 ]
 

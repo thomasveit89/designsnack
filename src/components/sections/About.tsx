@@ -70,7 +70,7 @@ export function About() {
           className="shrink-0 flex justify-end lg:self-end"
         >
           <img
-            src="/assets/tommy.png"
+            src="/assets/tommy.webp"
             alt="Thomas Veit — Design Engineer based in Zurich"
             className="block w-full rounded-t-[16px]"
             style={{ maxWidth: '420px' }}
