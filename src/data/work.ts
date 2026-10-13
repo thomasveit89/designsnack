@@ -80,6 +80,8 @@ export const caseStudies: CaseStudy[] = [
     },
     heroImage: '/assets/work/amboss/amboss-immobilien.webp',
     tools: ['Figma', 'Next.js', 'Tailwind CSS', 'Framer Motion', 'Sanity', 'Web3Forms', 'Vercel'],
+    url: 'https://www.amboss-immo.ch',
+    urlLabel: 'Visit site',
     nextSlug: 'joyo',
   },
 ]
